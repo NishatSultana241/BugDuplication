@@ -101,7 +101,7 @@ rm_oshot = {
     "BR1592": {"BR1264": 0, "BR1467": 0.36, "BR1495": 0.92}
 }
 
-
+#Add new duplicate bug reports here in the same format as duplicat, one shot, and zero shot.
 
 def calculate_map_and_mrr_for_query(scores, true_duplicates):
     ##Uses a premade library to get the map metrics
@@ -197,4 +197,4 @@ print(rm_oresults)
 rm_zresults.to_csv("rm_zshot_mrr_map_results.csv", index=False)
 rm_oresults.to_csv("rm_oshot_mrr_map_results.csv", index=False)
 
-#I probably could have made a function for saving the file and such. 
+#Copy the calculating MRR and MAP lines to do the evaluation. After one can print the results or save them to CSV.
