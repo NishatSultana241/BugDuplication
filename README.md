@@ -2,7 +2,7 @@
 **Built by the following authors**
 1. Nishat Sultana
 2. Jiacheng Shi
-3. Jaidyn Vankrik
+3. Jaidyn Vankirk
 
    ## Table of Contents
 - [Installation](#installation)
