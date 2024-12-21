@@ -1,8 +1,8 @@
 # SimBug(A similarity-driven approach to detect duplicate bug reports from multimodal bug reports)
 **Built by the following authors**
 1. Nishat Sultana
-2. Liakot Khan Babu
-3. Sean McClary
+2. Jiacheng Shi
+3. Jaidyn Vankrik
 
    ## Table of Contents
 - [Installation](#installation)
